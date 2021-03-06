@@ -1,0 +1,5 @@
+Pirata Jack 145 10
+Pirata Elizabeth 313 101
+Rebelde Corina 455 195
+Palmera 10 50
+Lago 120 200

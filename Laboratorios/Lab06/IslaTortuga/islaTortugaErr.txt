@@ -1,0 +1,12 @@
+Pirata Jack 100 200
+Pirata Elizabeth 350 50
+Rebelde Corina 450 200
+Palmera 1 1
+Palmera 1 480
+Minusioso Ada 100 300
+Minusioso Turing 250 300
+Rebelde Henry 100 200
+Palmera 499 1
+Palmera 499 1
+Lag 100 100
+Lago 200 200

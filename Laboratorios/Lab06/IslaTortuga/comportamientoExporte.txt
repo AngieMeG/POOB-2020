@@ -1,0 +1,14 @@
+Pirata Jack 101 24
+Pirata Elizabeth 338 49
+Rebelde Henry 51 210
+Rebelde Corina 451 212
+Palmera 499 480
+Palmera 1 480
+Palmera 499 1
+Palmera 1 1
+Minusioso Ada 397 300
+Minusioso Turing 452 299
+Perezoso Angie 100 400 0
+Perezoso Jose 125 115 12
+Lago 100 100
+Lago 200 200

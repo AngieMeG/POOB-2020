@@ -1,0 +1,10 @@
+POOB Checkers Version 1.6
+
+FEATURES:
+Save Feature added
+SaveAs Feature added
+HowToPlay info added
+Open Feature added
+
+BUGS FIXEDS:
+Wrong board initial size

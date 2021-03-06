@@ -1,0 +1,31 @@
+HOW TO PLAY
+ 
+Choose a player to go first. On your turn, move any one of your checkers by the movement
+rules described below. After you move one checker, your turn is over. The game continues
+with players alternating turns.
+ 
+ 
+MOVEMENT RULES
+ 
+* Always move your checker diagonally forward, toward your opponent's side of the gameboard.
+Note: After a checker becomes a King, it can move diagonally forward or backward.
+ 
+* Move your checker one space diagonally, to an open adjacent square; or jump one or more
+checkers diagonally to an open square adjacent to the checker you jumped. When you
+jump over an opponent's checker, you capture it (see Capturing an Opponent's Checker).
+ 
+* If all squares adjacent to your checker are occupied, your checker is blocked and
+cannot move.
+ 
+ 
+CAPTURING A OPPONENT'S CHECKER
+ 
+If you jump an opponent's checker, you capture it. Remove it from the gameboard and
+place it in front of you.
+ 
+ 
+BECOMING A KING
+ 
+As soon as one of your checkers reaches the first row on your opponent's side of the
+gameboard, it becomes a King. Place another checker of the same color on top of it. Now
+this double-decker checker can move forward or backward on the gameboard.
